@@ -1,0 +1,81 @@
+/* CSS Document */
+body {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	margin: 0;
+	padding: 0;
+}
+h2 {
+	margin: 0;
+	padding: 0;
+}
+h3 {
+	margin: 0;
+	padding: 0;
+}
+header {
+	width: 99,5%;
+	height: 5%x;
+	padding: 5px;
+	background-color: #d3e0ea;
+	color: #276678;
+	font-family: Arial;
+}
+nav {
+	width: 3%;
+	height: 890px;
+	background-color: #d3e0ea;
+	color: #276678;
+	text-align: center;
+	float: left;
+}
+.nav_element {
+	font-size: 35px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+a {
+	text-decoration: none;
+	color: #276678;
+}
+.nav_element:hover {
+	color: #1687a7;
+}
+main {
+	width: 97%;
+	height: 890px; 
+	background-color: #fff;
+	float: left;
+	overflow-y: scroll;
+}
+article {
+	height: 2000px;
+	width: 99,5%;
+	margin: 5px 300px;
+	padding: 20px;
+	background-color: #f6f5f5;
+	font-family: Arial;
+}
+li {
+	list-style: none;
+}
+.title {
+	background-color: #276678;
+	color: #f6f5f5;
+	padding: 10px;
+	text-align: center;
+	border-radius: 15px 15px 0px 0px;
+}
+.img_news {
+	text-align: center;
+}
+.news_content {
+	font-family: 'Prompt', sans-serif;
+	font-size: 20px;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
